@@ -1,0 +1,162 @@
+[
+    {
+        "id": 431386,
+        "year": 1950,
+        "city": "Рига",
+        "system": "Swiss",
+        "name": "Аэрофлот Опен",
+        "min_rating": 2216
+    },
+    {
+        "id": 923123,
+        "year": 1952,
+        "city": "Сория",
+        "system": "Swiss",
+        "name": "Балтийская цепь",
+        "min_rating": 2365
+    },
+    {
+        "id": 285850,
+        "year": 1957,
+        "city": "Осера",
+        "system": "Swiss",
+        "name": "Лондон",
+        "min_rating": 2494
+    },
+    {
+        "id": 882132,
+        "year": 1957,
+        "city": "Баку",
+        "system": "Swiss",
+        "name": "Турнир претендентов",
+        "min_rating": 2530
+    },
+    {
+        "id": 148540,
+        "year": 1964,
+        "city": "Ташкент",
+        "system": "Swiss",
+        "name": "Линарес",
+        "min_rating": 2624
+    },
+    {
+        "id": 465796,
+        "year": 1964,
+        "city": "Камбадос",
+        "system": "Swiss",
+        "name": "Гран-при ФИДЕ",
+        "min_rating": 2641
+    },
+    {
+        "id": 217654,
+        "year": 1967,
+        "city": "Авилес",
+        "system": "Swiss",
+        "name": "Реджо-нель-Эмилия",
+        "min_rating": 2384
+    },
+    {
+        "id": 963604,
+        "year": 1967,
+        "city": "Прага",
+        "system": "Swiss",
+        "name": "Дортмунд",
+        "min_rating": 2432
+    },
+    {
+        "id": 610824,
+        "year": 1968,
+        "city": "Сараево",
+        "system": "Swiss",
+        "name": "Гран-при ФИДЕ",
+        "min_rating": 2295
+    },
+    {
+        "id": 271494,
+        "year": 1969,
+        "city": "Мерида",
+        "system": "Swiss",
+        "name": "Алушта",
+        "min_rating": 2402
+    },
+    {
+        "id": 997112,
+        "year": 1970,
+        "city": "Краков",
+        "system": "Swiss",
+        "name": "Алушта",
+        "min_rating": 2495
+    },
+    {
+        "id": 889281,
+        "year": 1971,
+        "city": "Сантьяго-де-Компостела",
+        "system": "Swiss",
+        "name": "Sinquefield Cup",
+        "min_rating": 2465
+    },
+    {
+        "id": 163089,
+        "year": 1976,
+        "city": "Самора",
+        "system": "Swiss",
+        "name": "Цюрих",
+        "min_rating": 2567
+    },
+    {
+        "id": 463011,
+        "year": 1976,
+        "city": "Виго",
+        "system": "Swiss",
+        "name": "Кубок мира",
+        "min_rating": 2345
+    },
+    {
+        "id": 234518,
+        "year": 1979,
+        "city": "Севилья",
+        "system": "Swiss",
+        "name": "Вена",
+        "min_rating": 2289
+    },
+    {
+        "id": 376962,
+        "year": 1980,
+        "city": "Ла-Корунья",
+        "system": "Swiss",
+        "name": "Макартур",
+        "min_rating": 2507
+    },
+    {
+        "id": 647403,
+        "year": 1984,
+        "city": "Монсон",
+        "system": "Swiss",
+        "name": "Гран-при ФИДЕ",
+        "min_rating": 2434
+    },
+    {
+        "id": 728426,
+        "year": 1987,
+        "city": "Малага",
+        "system": "Swiss",
+        "name": "Вена",
+        "min_rating": 2457
+    },
+    {
+        "id": 497000,
+        "year": 1994,
+        "city": "Малага",
+        "system": "Swiss",
+        "name": "Цюрих",
+        "min_rating": 2578
+    },
+    {
+        "id": 779928,
+        "year": 1995,
+        "city": "Ла-Корунья",
+        "system": "Swiss",
+        "name": "Алушта",
+        "min_rating": 2369
+    }
+]

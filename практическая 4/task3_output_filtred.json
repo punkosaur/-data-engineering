@@ -1,0 +1,202 @@
+[
+    {
+        "artist": "Melanie C",
+        "song": "I Turn To You",
+        "duration_ms": 352173,
+        "year": 1999,
+        "tempo": 135.205,
+        "genre": "pop, Dance/Electronic"
+    },
+    {
+        "artist": "Marc Anthony",
+        "song": "You Sang To Me",
+        "duration_ms": 347106,
+        "year": 1999,
+        "tempo": 165.98,
+        "genre": "pop, latin"
+    },
+    {
+        "artist": "Creed",
+        "song": "Higher",
+        "duration_ms": 316733,
+        "year": 1999,
+        "tempo": 155.827,
+        "genre": "pop, rock, metal"
+    },
+    {
+        "artist": "Eminem",
+        "song": "Stan",
+        "duration_ms": 404106,
+        "year": 2000,
+        "tempo": 80.063,
+        "genre": "hip hop"
+    },
+    {
+        "artist": "Ludacris",
+        "song": "Southern Hospitality (Featuring Pharrell)",
+        "duration_ms": 300933,
+        "year": 2000,
+        "tempo": 95.158,
+        "genre": "hip hop, pop"
+    },
+    {
+        "artist": "Bomfunk MC's",
+        "song": "Freestyler",
+        "duration_ms": 306333,
+        "year": 2000,
+        "tempo": 163.826,
+        "genre": "pop"
+    },
+    {
+        "artist": "Musiq Soulchild",
+        "song": "Love",
+        "duration_ms": 304666,
+        "year": 2000,
+        "tempo": 99.738,
+        "genre": "pop, R&B"
+    },
+    {
+        "artist": "Erykah Badu",
+        "song": "Bag Lady",
+        "duration_ms": 348893,
+        "year": 2000,
+        "tempo": 151.181,
+        "genre": "hip hop, R&B"
+    },
+    {
+        "artist": "Limp Bizkit",
+        "song": "Take A Look Around",
+        "duration_ms": 321040,
+        "year": 2000,
+        "tempo": 101.968,
+        "genre": "metal"
+    },
+    {
+        "artist": "Roger Sanchez",
+        "song": "Another Chance",
+        "duration_ms": 452906,
+        "year": 2000,
+        "tempo": 127.993,
+        "genre": "Dance/Electronic"
+    },
+    {
+        "artist": "Moloko",
+        "song": "The Time Is Now",
+        "duration_ms": 318280,
+        "year": 2000,
+        "tempo": 127.962,
+        "genre": "pop, Dance/Electronic"
+    },
+    {
+        "artist": "So Solid Crew",
+        "song": "21 Seconds",
+        "duration_ms": 302826,
+        "year": 2001,
+        "tempo": 137.03,
+        "genre": "Dance/Electronic"
+    },
+    {
+        "artist": "Robbie Williams",
+        "song": "Eternity",
+        "duration_ms": 302760,
+        "year": 2001,
+        "tempo": 77.967,
+        "genre": "pop, rock"
+    },
+    {
+        "artist": "Michael Jackson",
+        "song": "You Rock My World",
+        "duration_ms": 337733,
+        "year": 2001,
+        "tempo": 95.0,
+        "genre": "pop, R&B"
+    },
+    {
+        "artist": "Gorillaz",
+        "song": "Clint Eastwood",
+        "duration_ms": 340920,
+        "year": 2001,
+        "tempo": 167.953,
+        "genre": "hip hop"
+    },
+    {
+        "artist": "D12",
+        "song": "Purple Pills",
+        "duration_ms": 304506,
+        "year": 2001,
+        "tempo": 125.25,
+        "genre": "hip hop, pop, rock"
+    },
+    {
+        "artist": "Daft Punk",
+        "song": "One More Time",
+        "duration_ms": 320357,
+        "year": 2001,
+        "tempo": 122.746,
+        "genre": "hip hop, Dance/Electronic"
+    },
+    {
+        "artist": "Mary J. Blige",
+        "song": "No More Drama",
+        "duration_ms": 326240,
+        "year": 2001,
+        "tempo": 97.914,
+        "genre": "pop, R&B"
+    },
+    {
+        "artist": "Alicia Keys",
+        "song": "A Woman's Worth",
+        "duration_ms": 303333,
+        "year": 2001,
+        "tempo": 75.09,
+        "genre": "pop, R&B"
+    },
+    {
+        "artist": "No Doubt",
+        "song": "Underneath It All",
+        "duration_ms": 302720,
+        "year": 2001,
+        "tempo": 138.202,
+        "genre": "rock, pop"
+    },
+    {
+        "artist": "Puddle Of Mudd",
+        "song": "Blurry",
+        "duration_ms": 303920,
+        "year": 2001,
+        "tempo": 157.469,
+        "genre": "rock, metal"
+    },
+    {
+        "artist": "Janet Jackson",
+        "song": "All For You",
+        "duration_ms": 329933,
+        "year": 2001,
+        "tempo": 113.525,
+        "genre": "pop, R&B"
+    },
+    {
+        "artist": "Modjo",
+        "song": "Lady - Hear Me Tonight",
+        "duration_ms": 307153,
+        "year": 2001,
+        "tempo": 126.041,
+        "genre": "Dance/Electronic"
+    },
+    {
+        "artist": "Dirty Vegas",
+        "song": "Days Go By",
+        "duration_ms": 432146,
+        "year": 2002,
+        "tempo": 126.99,
+        "genre": "Dance/Electronic"
+    },
+    {
+        "artist": "Eminem",
+        "song": "Sing For The Moment",
+        "duration_ms": 339546,
+        "year": 2002,
+        "tempo": 163.961,
+        "genre": "hip hop"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "brewery_name": "Benny Brewing Company",
+        "avg_brewery_rating": 4.5
+    },
+    {
+        "brewery_name": "Brauhaus Lemke",
+        "avg_brewery_rating": 4.5
+    },
+    {
+        "brewery_name": "Cheriton Brewery",
+        "avg_brewery_rating": 4.666666666666667
+    },
+    {
+        "brewery_name": "Cornelius Pass Roadhouse & Imbrie Hall (McMenamins)",
+        "avg_brewery_rating": 4.5
+    },
+    {
+        "brewery_name": "Fujian Yanjing Huiquan Brewery Co., Ltd.",
+        "avg_brewery_rating": 4.5
+    },
+    {
+        "brewery_name": "Grumpy's Brewhaus",
+        "avg_brewery_rating": 4.25
+    },
+    {
+        "brewery_name": "Hosokawa Sake Brewing Co., Ltd.",
+        "avg_brewery_rating": 5.0
+    },
+    {
+        "brewery_name": "Louisiane Brewhouse, Nha Trang",
+        "avg_brewery_rating": 4.5
+    },
+    {
+        "brewery_name": "Mt Tabor Brewing",
+        "avg_brewery_rating": 4.5
+    },
+    {
+        "brewery_name": "Ninkasi Fabriques",
+        "avg_brewery_rating": 4.3
+    },
+    {
+        "brewery_name": "Pivovar Groll",
+        "avg_brewery_rating": 4.5
+    },
+    {
+        "brewery_name": "Stone Iwamoto Co., Ltd / Hakusekikan Beer Restaurant BACCHUS",
+        "avg_brewery_rating": 4.5
+    },
+    {
+        "brewery_name": "Why Not Brewery, The",
+        "avg_brewery_rating": 4.5
+    }
+]

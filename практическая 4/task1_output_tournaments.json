@@ -1,0 +1,222 @@
+[
+    {
+        "id": 109618,
+        "name": "Биль",
+        "year": 1988,
+        "city": "Таллин",
+        "begin": "04.02",
+        "system": "circular",
+        "tours_count": 11,
+        "min_rating": 2498,
+        "time_on_game": 131
+    },
+    {
+        "id": 119929,
+        "name": "Дортмунд",
+        "year": 1992,
+        "city": "Тбилиси",
+        "begin": "16.08",
+        "system": "Olympic",
+        "tours_count": 10,
+        "min_rating": 2515,
+        "time_on_game": 173
+    },
+    {
+        "id": 128194,
+        "name": "Дортмунд",
+        "year": 2013,
+        "city": "Овьедо",
+        "begin": "26.01",
+        "system": "Swiss",
+        "tours_count": 15,
+        "min_rating": 2594,
+        "time_on_game": 169
+    },
+    {
+        "id": 136051,
+        "name": "Сент-Луис",
+        "year": 2018,
+        "city": "Ла-Корунья",
+        "begin": "07.01",
+        "system": "circular",
+        "tours_count": 10,
+        "min_rating": 2585,
+        "time_on_game": 53
+    },
+    {
+        "id": 140801,
+        "name": "Вейк-ан-Зее",
+        "year": 1953,
+        "city": "Эль-Пуэрто-де-Санта-Мария",
+        "begin": "14.02",
+        "system": "circular",
+        "tours_count": 6,
+        "min_rating": 2349,
+        "time_on_game": 52
+    },
+    {
+        "id": 148540,
+        "name": "Линарес",
+        "year": 1964,
+        "city": "Ташкент",
+        "begin": "03.04",
+        "system": "Swiss",
+        "tours_count": 7,
+        "min_rating": 2624,
+        "time_on_game": 146
+    },
+    {
+        "id": 153343,
+        "name": "Реджо-нель-Эмилия",
+        "year": 1983,
+        "city": "Прага",
+        "begin": "26.07",
+        "system": "Olympic",
+        "tours_count": 12,
+        "min_rating": 2583,
+        "time_on_game": 161
+    },
+    {
+        "id": 163089,
+        "name": "Цюрих",
+        "year": 1976,
+        "city": "Самора",
+        "begin": "23.05",
+        "system": "Swiss",
+        "tours_count": 14,
+        "min_rating": 2567,
+        "time_on_game": 75
+    },
+    {
+        "id": 180300,
+        "name": "Пойковский",
+        "year": 2005,
+        "city": "Бланес",
+        "begin": "07.12",
+        "system": "Swiss",
+        "tours_count": 9,
+        "min_rating": 2264,
+        "time_on_game": 19
+    },
+    {
+        "id": 195221,
+        "name": "Турнир претендентов",
+        "year": 1982,
+        "city": "Будапешт",
+        "begin": "01.06",
+        "system": "Olympic",
+        "tours_count": 8,
+        "min_rating": 2271,
+        "time_on_game": 131
+    },
+    {
+        "id": 196420,
+        "name": "Пойковский",
+        "year": 2015,
+        "city": "Афины",
+        "begin": "08.11",
+        "system": "circular",
+        "tours_count": 15,
+        "min_rating": 2614,
+        "time_on_game": 146
+    },
+    {
+        "id": 208242,
+        "name": "Шамкович",
+        "year": 2010,
+        "city": "Бишкек",
+        "begin": "07.02",
+        "system": "Swiss",
+        "tours_count": 11,
+        "min_rating": 2251,
+        "time_on_game": 89
+    },
+    {
+        "id": 217654,
+        "name": "Реджо-нель-Эмилия",
+        "year": 1967,
+        "city": "Авилес",
+        "begin": "16.12",
+        "system": "Swiss",
+        "tours_count": 9,
+        "min_rating": 2384,
+        "time_on_game": 134
+    },
+    {
+        "id": 232577,
+        "name": "Балтийская цепь",
+        "year": 1983,
+        "city": "Самора",
+        "begin": "23.02",
+        "system": "Olympic",
+        "tours_count": 8,
+        "min_rating": 2414,
+        "time_on_game": 69
+    },
+    {
+        "id": 234518,
+        "name": "Вена",
+        "year": 1979,
+        "city": "Севилья",
+        "begin": "02.11",
+        "system": "Swiss",
+        "tours_count": 14,
+        "min_rating": 2289,
+        "time_on_game": 157
+    },
+    {
+        "id": 237642,
+        "name": "Лондон",
+        "year": 1962,
+        "city": "Лас-Росас",
+        "begin": "11.08",
+        "system": "circular",
+        "tours_count": 13,
+        "min_rating": 2329,
+        "time_on_game": 81
+    },
+    {
+        "id": 242861,
+        "name": "Вена",
+        "year": 2014,
+        "city": "Овьедо",
+        "begin": "06.08",
+        "system": "circular",
+        "tours_count": 7,
+        "min_rating": 2585,
+        "time_on_game": 66
+    },
+    {
+        "id": 243060,
+        "name": "Пойковский",
+        "year": 1985,
+        "city": "Кадакес",
+        "begin": "18.08",
+        "system": "Olympic",
+        "tours_count": 11,
+        "min_rating": 2632,
+        "time_on_game": 72
+    },
+    {
+        "id": 255463,
+        "name": "Вена",
+        "year": 1999,
+        "city": "Вроцлав",
+        "begin": "20.01",
+        "system": "Swiss",
+        "tours_count": 11,
+        "min_rating": 2329,
+        "time_on_game": 173
+    },
+    {
+        "id": 264218,
+        "name": "Гран-при ФИДЕ",
+        "year": 1980,
+        "city": "Камбадос",
+        "begin": "19.02",
+        "system": "Olympic",
+        "tours_count": 9,
+        "min_rating": 2329,
+        "time_on_game": 137
+    }
+]

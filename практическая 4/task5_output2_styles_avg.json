@@ -1,0 +1,394 @@
+[
+    {
+        "beer_style": "American Double / Imperial Stout",
+        "average_rating": 4.295676429567643
+    },
+    {
+        "beer_style": "English Barleywine",
+        "average_rating": 4.197183098591549
+    },
+    {
+        "beer_style": "Keller Bier / Zwickel Bier",
+        "average_rating": 4.172413793103448
+    },
+    {
+        "beer_style": "American Wild Ale",
+        "average_rating": 4.169322709163347
+    },
+    {
+        "beer_style": "Rye Beer",
+        "average_rating": 4.159328563566318
+    },
+    {
+        "beer_style": "Russian Imperial Stout",
+        "average_rating": 4.119851347166305
+    },
+    {
+        "beer_style": "Munich Helles Lager",
+        "average_rating": 4.088012139605463
+    },
+    {
+        "beer_style": "Baltic Porter",
+        "average_rating": 4.062152133580705
+    },
+    {
+        "beer_style": "American IPA",
+        "average_rating": 4.0286519036519035
+    },
+    {
+        "beer_style": "American Porter",
+        "average_rating": 4.019198312236287
+    },
+    {
+        "beer_style": "Roggenbier",
+        "average_rating": 4.0
+    },
+    {
+        "beer_style": "Bière de Garde",
+        "average_rating": 4.0
+    },
+    {
+        "beer_style": "Saison / Farmhouse Ale",
+        "average_rating": 3.981638418079096
+    },
+    {
+        "beer_style": "Milk / Sweet Stout",
+        "average_rating": 3.9663461538461537
+    },
+    {
+        "beer_style": "Chile Beer",
+        "average_rating": 3.9545454545454546
+    },
+    {
+        "beer_style": "Flanders Red Ale",
+        "average_rating": 3.9401586157173756
+    },
+    {
+        "beer_style": "Belgian IPA",
+        "average_rating": 3.9326241134751774
+    },
+    {
+        "beer_style": "Belgian Strong Pale Ale",
+        "average_rating": 3.928358208955224
+    },
+    {
+        "beer_style": "Doppelbock",
+        "average_rating": 3.9239007891770012
+    },
+    {
+        "beer_style": "American Double / Imperial IPA",
+        "average_rating": 3.920514835920613
+    },
+    {
+        "beer_style": "Scotch Ale / Wee Heavy",
+        "average_rating": 3.9182109764789734
+    },
+    {
+        "beer_style": "Black & Tan",
+        "average_rating": 3.909448818897638
+    },
+    {
+        "beer_style": "American Black Ale",
+        "average_rating": 3.8982558139534884
+    },
+    {
+        "beer_style": "English Dark Mild Ale",
+        "average_rating": 3.8958333333333335
+    },
+    {
+        "beer_style": "American Barleywine",
+        "average_rating": 3.893092105263158
+    },
+    {
+        "beer_style": "Old Ale",
+        "average_rating": 3.888940955951265
+    },
+    {
+        "beer_style": "Wheatwine",
+        "average_rating": 3.88021978021978
+    },
+    {
+        "beer_style": "Rauchbier",
+        "average_rating": 3.8518518518518516
+    },
+    {
+        "beer_style": "Kölsch",
+        "average_rating": 3.849557522123894
+    },
+    {
+        "beer_style": "Scottish Gruit / Ancient Herbed Ale",
+        "average_rating": 3.8466666666666667
+    },
+    {
+        "beer_style": "Oatmeal Stout",
+        "average_rating": 3.84375
+    },
+    {
+        "beer_style": "Dubbel",
+        "average_rating": 3.8214285714285716
+    },
+    {
+        "beer_style": "Schwarzbier",
+        "average_rating": 3.8175675675675675
+    },
+    {
+        "beer_style": "Berliner Weissbier",
+        "average_rating": 3.8
+    },
+    {
+        "beer_style": "Euro Dark Lager",
+        "average_rating": 3.7996575342465753
+    },
+    {
+        "beer_style": "Belgian Pale Ale",
+        "average_rating": 3.778688524590164
+    },
+    {
+        "beer_style": "American Brown Ale",
+        "average_rating": 3.7759036144578313
+    },
+    {
+        "beer_style": "Weizenbock",
+        "average_rating": 3.7758620689655173
+    },
+    {
+        "beer_style": "Flanders Oud Bruin",
+        "average_rating": 3.775
+    },
+    {
+        "beer_style": "Czech Pilsener",
+        "average_rating": 3.7718228498074455
+    },
+    {
+        "beer_style": "American Stout",
+        "average_rating": 3.7709815078236133
+    },
+    {
+        "beer_style": "Scottish Ale",
+        "average_rating": 3.77
+    },
+    {
+        "beer_style": "Munich Dunkel Lager",
+        "average_rating": 3.7684824902723735
+    },
+    {
+        "beer_style": "Pumpkin Ale",
+        "average_rating": 3.768421052631579
+    },
+    {
+        "beer_style": "American Pale Ale (APA)",
+        "average_rating": 3.7659352142110762
+    },
+    {
+        "beer_style": "Märzen / Oktoberfest",
+        "average_rating": 3.7536115569823436
+    },
+    {
+        "beer_style": "Hefeweizen",
+        "average_rating": 3.7444933920704844
+    },
+    {
+        "beer_style": "English Brown Ale",
+        "average_rating": 3.7419659735349717
+    },
+    {
+        "beer_style": "English Porter",
+        "average_rating": 3.7362924281984333
+    },
+    {
+        "beer_style": "Maibock / Helles Bock",
+        "average_rating": 3.721774193548387
+    },
+    {
+        "beer_style": "Tripel",
+        "average_rating": 3.721218961625282
+    },
+    {
+        "beer_style": "English Pale Mild Ale",
+        "average_rating": 3.7142857142857144
+    },
+    {
+        "beer_style": "English Strong Ale",
+        "average_rating": 3.7113095238095237
+    },
+    {
+        "beer_style": "Dunkelweizen",
+        "average_rating": 3.7111111111111112
+    },
+    {
+        "beer_style": "Belgian Strong Dark Ale",
+        "average_rating": 3.71
+    },
+    {
+        "beer_style": "Lambic - Fruit",
+        "average_rating": 3.7083333333333335
+    },
+    {
+        "beer_style": "Extra Special / Strong Bitter (ESB)",
+        "average_rating": 3.7048076923076922
+    },
+    {
+        "beer_style": "English Bitter",
+        "average_rating": 3.6939102564102564
+    },
+    {
+        "beer_style": "German Pilsener",
+        "average_rating": 3.689265536723164
+    },
+    {
+        "beer_style": "Irish Dry Stout",
+        "average_rating": 3.68562874251497
+    },
+    {
+        "beer_style": "Altbier",
+        "average_rating": 3.6771561771561774
+    },
+    {
+        "beer_style": "Braggot",
+        "average_rating": 3.673076923076923
+    },
+    {
+        "beer_style": "American Double / Imperial Pilsner",
+        "average_rating": 3.6538461538461537
+    },
+    {
+        "beer_style": "Eisbock",
+        "average_rating": 3.65
+    },
+    {
+        "beer_style": "American Amber / Red Ale",
+        "average_rating": 3.6355555555555554
+    },
+    {
+        "beer_style": "American Strong Ale",
+        "average_rating": 3.629166666666667
+    },
+    {
+        "beer_style": "Vienna Lager",
+        "average_rating": 3.619565217391304
+    },
+    {
+        "beer_style": "English Pale Ale",
+        "average_rating": 3.6044721407624634
+    },
+    {
+        "beer_style": "Witbier",
+        "average_rating": 3.5961538461538463
+    },
+    {
+        "beer_style": "Dortmunder / Export Lager",
+        "average_rating": 3.5952380952380953
+    },
+    {
+        "beer_style": "Winter Warmer",
+        "average_rating": 3.5709342560553634
+    },
+    {
+        "beer_style": "Fruit / Vegetable Beer",
+        "average_rating": 3.5696778711484596
+    },
+    {
+        "beer_style": "English India Pale Ale (IPA)",
+        "average_rating": 3.544334975369458
+    },
+    {
+        "beer_style": "English Stout",
+        "average_rating": 3.5404411764705883
+    },
+    {
+        "beer_style": "California Common / Steam Beer",
+        "average_rating": 3.5357142857142856
+    },
+    {
+        "beer_style": "Lambic - Unblended",
+        "average_rating": 3.5
+    },
+    {
+        "beer_style": "Kvass",
+        "average_rating": 3.5
+    },
+    {
+        "beer_style": "American Pale Wheat Ale",
+        "average_rating": 3.4959183673469387
+    },
+    {
+        "beer_style": "Herbed / Spiced Beer",
+        "average_rating": 3.481981981981982
+    },
+    {
+        "beer_style": "Foreign / Export Stout",
+        "average_rating": 3.453846153846154
+    },
+    {
+        "beer_style": "Quadrupel (Quad)",
+        "average_rating": 3.4375
+    },
+    {
+        "beer_style": "Belgian Dark Ale",
+        "average_rating": 3.4035608308605343
+    },
+    {
+        "beer_style": "American Blonde Ale",
+        "average_rating": 3.391038696537678
+    },
+    {
+        "beer_style": "American Pale Lager",
+        "average_rating": 3.321243523316062
+    },
+    {
+        "beer_style": "Bock",
+        "average_rating": 3.282967032967033
+    },
+    {
+        "beer_style": "Smoked Beer",
+        "average_rating": 3.2746478873239435
+    },
+    {
+        "beer_style": "Cream Ale",
+        "average_rating": 3.2393617021276597
+    },
+    {
+        "beer_style": "American Dark Wheat Ale",
+        "average_rating": 3.1739130434782608
+    },
+    {
+        "beer_style": "Irish Red Ale",
+        "average_rating": 3.172727272727273
+    },
+    {
+        "beer_style": "Euro Pale Lager",
+        "average_rating": 3.142931392931393
+    },
+    {
+        "beer_style": "American Amber / Red Lager",
+        "average_rating": 3.0872093023255816
+    },
+    {
+        "beer_style": "American Adjunct Lager",
+        "average_rating": 3.0605726872246697
+    },
+    {
+        "beer_style": "Low Alcohol Beer",
+        "average_rating": 2.9375
+    },
+    {
+        "beer_style": "Kristalweizen",
+        "average_rating": 2.9375
+    },
+    {
+        "beer_style": "Euro Strong Lager",
+        "average_rating": 2.8797101449275364
+    },
+    {
+        "beer_style": "Light Lager",
+        "average_rating": 2.7196969696969697
+    },
+    {
+        "beer_style": "Japanese Rice Lager",
+        "average_rating": 2.5833333333333335
+    },
+    {
+        "beer_style": "American Malt Liquor",
+        "average_rating": 2.473684210526316
+    }
+]
