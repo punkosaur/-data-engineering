@@ -1,0 +1,32 @@
+[
+    {
+        "brewery_name": "Cooperstown Brewing Company",
+        "beer_name": "Strike Out Stout",
+        "beer_abv": 4.6
+    },
+    {
+        "brewery_name": "Cairngorm Brewery Company, The",
+        "beer_name": "Black Gold",
+        "beer_abv": 4.4
+    },
+    {
+        "brewery_name": "Archers Brewing & Wholesale Limited",
+        "beer_name": "Oyster Stout",
+        "beer_abv": 4.8
+    },
+    {
+        "brewery_name": "Fernandes Brewery Tap",
+        "beer_name": "Triple MMM Stout",
+        "beer_abv": 4.6
+    },
+    {
+        "brewery_name": "Bath Ales Ltd",
+        "beer_name": "Dark Hare",
+        "beer_abv": 4.0
+    },
+    {
+        "brewery_name": "Nelson Brewing Company",
+        "beer_name": "Dogwatch Stout",
+        "beer_abv": 4.5
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "name": "Линарес",
+        "year": 1954,
+        "minimal_prise": 1031250
+    },
+    {
+        "name": "Лондон",
+        "year": 1959,
+        "minimal_prise": 7250000
+    },
+    {
+        "name": "Лондон",
+        "year": 1962,
+        "minimal_prise": 1500000
+    },
+    {
+        "name": "Гран-при ФИДЕ",
+        "year": 1968,
+        "minimal_prise": 2875000
+    },
+    {
+        "name": "Sinquefield Cup",
+        "year": 1971,
+        "minimal_prise": 1875000
+    },
+    {
+        "name": "Аэрофлот Опен",
+        "year": 1971,
+        "minimal_prise": 2812500
+    },
+    {
+        "name": "Тилбург",
+        "year": 1976,
+        "minimal_prise": 1500000
+    },
+    {
+        "name": "Макартур",
+        "year": 1980,
+        "minimal_prise": 12500000
+    },
+    {
+        "name": "Sinquefield Cup",
+        "year": 1981,
+        "minimal_prise": 2312500
+    },
+    {
+        "name": "Вена",
+        "year": 1987,
+        "minimal_prise": 4125000
+    },
+    {
+        "name": "Биль",
+        "year": 1988,
+        "minimal_prise": 2312500
+    },
+    {
+        "name": "Реджо-нель-Эмилия",
+        "year": 1990,
+        "minimal_prise": 2125000
+    },
+    {
+        "name": "Биль",
+        "year": 1998,
+        "minimal_prise": 3250000
+    },
+    {
+        "name": "Вена",
+        "year": 2000,
+        "minimal_prise": 5750000
+    },
+    {
+        "name": "Дортмунд",
+        "year": 2013,
+        "minimal_prise": 1062500
+    },
+    {
+        "name": "Аэрофлот Опен",
+        "year": 2015,
+        "minimal_prise": 1687500
+    },
+    {
+        "name": "Вена",
+        "year": 2015,
+        "minimal_prise": 9250000
+    },
+    {
+        "name": "Сент-Луис",
+        "year": 2018,
+        "minimal_prise": 2125000
+    },
+    {
+        "name": "Реджо-нель-Эмилия",
+        "year": 2021,
+        "minimal_prise": 10500000
+    }
+]
