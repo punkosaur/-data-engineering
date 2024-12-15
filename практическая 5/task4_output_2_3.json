@@ -1,0 +1,1880 @@
+[
+    {
+        "_id": "Harmon Restaurant & Brewery",
+        "max_palate": "5.0",
+        "min_palate": "1.0",
+        "avg_palate": "3.7045454545454546"
+    },
+    {
+        "_id": "McCann's Food & Brew",
+        "max_palate": "5.0",
+        "min_palate": "2.5",
+        "avg_palate": "3.8363636363636364"
+    },
+    {
+        "_id": "Browar Okocim S.A. (Carlsberg)",
+        "max_palate": "5.0",
+        "min_palate": "1.0",
+        "avg_palate": "3.699519230769231"
+    },
+    {
+        "_id": "Jennings Brothers PLC",
+        "max_palate": "5.0",
+        "min_palate": "2.0",
+        "avg_palate": "3.5463917525773194"
+    },
+    {
+        "_id": "Cooperstown Brewing Company",
+        "max_palate": "5.0",
+        "min_palate": "1.0",
+        "avg_palate": "3.5103503184713376"
+    },
+    {
+        "_id": "Stakhanovitz",
+        "max_palate": "5.0",
+        "min_palate": "1.5",
+        "avg_palate": "2.875"
+    },
+    {
+        "_id": "Yazoo Brewing Company",
+        "max_palate": "5.0",
+        "min_palate": "1.5",
+        "avg_palate": "3.7285223367697595"
+    },
+    {
+        "_id": "Stadtbrauerei Spalt",
+        "max_palate": "5.0",
+        "min_palate": "2.5",
+        "avg_palate": "3.5625"
+    },
+    {
+        "_id": "Brauerei Forst AG",
+        "max_palate": "5.0",
+        "min_palate": "1.0",
+        "avg_palate": "3.25531914893617"
+    },
+    {
+        "_id": "Loup Rouge",
+        "max_palate": "5.0",
+        "min_palate": "3.0",
+        "avg_palate": "4.1875"
+    },
+    {
+        "_id": "Bluegrass Brewing Co. - East St. Matthew's",
+        "max_palate": "5.0",
+        "min_palate": "1.0",
+        "avg_palate": "3.5219454329774615"
+    },
+    {
+        "_id": "West Virginia Brewing Company",
+        "max_palate": "5.0",
+        "min_palate": "2.0",
+        "avg_palate": "3.591304347826087"
+    },
+    {
+        "_id": "Catawba Valley Brewing Company",
+        "max_palate": "5.0",
+        "min_palate": "1.0",
+        "avg_palate": "3.815642458100559"
+    },
+    {
+        "_id": "Moon River Brewing Company",
+        "max_palate": "5.0",
+        "min_palate": "1.5",
+        "avg_palate": "3.665071770334928"
+    },
+    {
+        "_id": "Yellow Rose Brewing Company",
+        "max_palate": "5.0",
+        "min_palate": "1.0",
+        "avg_palate": "3.15"
+    },
+    {
+        "_id": "The Vermont Pub & Brewery",
+        "max_palate": "5.0",
+        "min_palate": "2.0",
+        "avg_palate": "3.6408668730650153"
+    },
+    {
+        "_id": "Great South Bay Brewery",
+        "max_palate": "5.0",
+        "min_palate": "2.5",
+        "avg_palate": "3.883720930232558"
+    },
+    {
+        "_id": "Brasserie La Binchoise (Malterie des Remparts)",
+        "max_palate": "5.0",
+        "min_palate": "2.0",
+        "avg_palate": "3.7876106194690267"
+    },
+    {
+        "_id": "Bath Ales Ltd",
+        "max_palate": "5.0",
+        "min_palate": "2.5",
+        "avg_palate": "3.7945205479452055"
+    },
+    {
+        "_id": "Third Base Sports Bar & Brewery",
+        "max_palate": "5.0",
+        "min_palate": "1.5",
+        "avg_palate": "3.3152173913043477"
+    },
+    {
+        "_id": "Pike Pub & Brewery",
+        "max_palate": "5.0",
+        "min_palate": "1.0",
+        "avg_palate": "3.6880766501064586"
+    },
+    {
+        "_id": "River Horse Brewing Co.",
+        "max_palate": "5.0",
+        "min_palate": "1.0",
+        "avg_palate": "3.5221923335574985"
+    },
+    {
+        "_id": "Hoppin' Frog Brewery",
+        "max_palate": "5.0",
+        "min_palate": "1.0",
+        "avg_palate": "4.010194329404269"
+    },
+    {
+        "_id": "Harar Beer Factory",
+        "max_palate": "5.0",
+        "min_palate": "2.0",
+        "avg_palate": "3.191358024691358"
+    },
+    {
+        "_id": "Brouwerij Verhaeghe",
+        "max_palate": "5.0",
+        "min_palate": "1.0",
+        "avg_palate": "4.01530612244898"
+    },
+    {
+        "_id": "Sierra Madre Brewing Co.",
+        "max_palate": "5.0",
+        "min_palate": "1.0",
+        "avg_palate": "3.6805555555555554"
+    },
+    {
+        "_id": "Buckhead Brewery and Grill",
+        "max_palate": "5.0",
+        "min_palate": "3.0",
+        "avg_palate": "3.5833333333333335"
+    },
+    {
+        "_id": "Benny Brewing Company",
+        "max_palate": "5.0",
+        "min_palate": "3.5",
+        "avg_palate": "4.2"
+    },
+    {
+        "_id": "Hokusetsu Brewery",
+        "max_palate": "5.0",
+        "min_palate": "2.5",
+        "avg_palate": "4.0"
+    },
+    {
+        "_id": "The Ship Inn",
+        "max_palate": "5.0",
+        "min_palate": "2.0",
+        "avg_palate": "3.5948275862068964"
+    },
+    {
+        "_id": "Trafalgar Ales & Meads",
+        "max_palate": "5.0",
+        "min_palate": "1.0",
+        "avg_palate": "2.8099078341013826"
+    },
+    {
+        "_id": "Joseph James Brewing Inc.",
+        "max_palate": "5.0",
+        "min_palate": "1.0",
+        "avg_palate": "3.227642276422764"
+    },
+    {
+        "_id": "O'so Brewing Company",
+        "max_palate": "5.0",
+        "min_palate": "1.0",
+        "avg_palate": "3.5365497076023393"
+    },
+    {
+        "_id": "O'Fallon Brewery",
+        "max_palate": "5.0",
+        "min_palate": "1.0",
+        "avg_palate": "3.515524311657879"
+    },
+    {
+        "_id": "Brauerei Pinkus Mueller",
+        "max_palate": "5.0",
+        "min_palate": "1.0",
+        "avg_palate": "3.629679144385027"
+    },
+    {
+        "_id": "Bernard Family Brewery",
+        "max_palate": "5.0",
+        "min_palate": "1.5",
+        "avg_palate": "3.572289156626506"
+    },
+    {
+        "_id": "Great Basin Brewing Co.",
+        "max_palate": "5.0",
+        "min_palate": "1.5",
+        "avg_palate": "3.789473684210526"
+    },
+    {
+        "_id": "Industrial Cervecera S.A. / Compañía Cervecera De Nicaragua",
+        "max_palate": "5.0",
+        "min_palate": "1.0",
+        "avg_palate": "2.803030303030303"
+    },
+    {
+        "_id": "Scottish Chief's Tavern Brewery",
+        "max_palate": "5.0",
+        "min_palate": "2.0",
+        "avg_palate": "3.2222222222222223"
+    },
+    {
+        "_id": "Haymarket Pub & Brewery",
+        "max_palate": "5.0",
+        "min_palate": "2.0",
+        "avg_palate": "3.840686274509804"
+    },
+    {
+        "_id": "Walnut Brewery",
+        "max_palate": "5.0",
+        "min_palate": "2.5",
+        "avg_palate": "3.5806451612903225"
+    },
+    {
+        "_id": "Bluegrass Brewing Co.",
+        "max_palate": "5.0",
+        "min_palate": "2.0",
+        "avg_palate": "3.466666666666667"
+    },
+    {
+        "_id": "Capitol City Brewing Company",
+        "max_palate": "5.0",
+        "min_palate": "1.5",
+        "avg_palate": "3.710144927536232"
+    },
+    {
+        "_id": "Broad Ripple Brew Pub",
+        "max_palate": "5.0",
+        "min_palate": "2.0",
+        "avg_palate": "3.914473684210526"
+    },
+    {
+        "_id": "Cairngorm Brewery Company, The",
+        "max_palate": "5.0",
+        "min_palate": "1.0",
+        "avg_palate": "3.7"
+    },
+    {
+        "_id": "Cambridge Brewing Company",
+        "max_palate": "5.0",
+        "min_palate": "1.5",
+        "avg_palate": "3.9750415973377704"
+    },
+    {
+        "_id": "Caldera Brewing Company",
+        "max_palate": "5.0",
+        "min_palate": "1.0",
+        "avg_palate": "3.822834645669291"
+    },
+    {
+        "_id": "Anacapa Brewing Company",
+        "max_palate": "5.0",
+        "min_palate": "2.0",
+        "avg_palate": "3.375"
+    },
+    {
+        "_id": "NoDa Brewing Company",
+        "max_palate": "5.0",
+        "min_palate": "3.5",
+        "avg_palate": "4.184210526315789"
+    },
+    {
+        "_id": "Roots Organic Brewery",
+        "max_palate": "5.0",
+        "min_palate": "2.0",
+        "avg_palate": "3.6510416666666665"
+    },
+    {
+        "_id": "Ohio Brewing Company",
+        "max_palate": "5.0",
+        "min_palate": "2.0",
+        "avg_palate": "3.5652173913043477"
+    },
+    {
+        "_id": "Amstel Brouwerij B. V.",
+        "max_palate": "5.0",
+        "min_palate": "1.0",
+        "avg_palate": "2.5254385964912283"
+    },
+    {
+        "_id": "Port Brewing Company / Pizza Port",
+        "max_palate": "5.0",
+        "min_palate": "1.0",
+        "avg_palate": "3.9642368575337112"
+    },
+    {
+        "_id": "Klosterbrauerei Weltenburg",
+        "max_palate": "5.0",
+        "min_palate": "2.0",
+        "avg_palate": "3.8209798994974875"
+    },
+    {
+        "_id": "Isle Of Skye Brewery",
+        "max_palate": "5.0",
+        "min_palate": "2.0",
+        "avg_palate": "3.647887323943662"
+    },
+    {
+        "_id": "Taps Brewing Co. Inc.",
+        "max_palate": "5.0",
+        "min_palate": "2.0",
+        "avg_palate": "3.58984375"
+    },
+    {
+        "_id": "Micro-Brasserie Brouemont",
+        "max_palate": "5.0",
+        "min_palate": "3.5",
+        "avg_palate": "3.8846153846153846"
+    },
+    {
+        "_id": "Harrison's Brewery and Restaurant",
+        "max_palate": "5.0",
+        "min_palate": "1.0",
+        "avg_palate": "3.269230769230769"
+    },
+    {
+        "_id": "Brouwerij Martens NV",
+        "max_palate": "5.0",
+        "min_palate": "1.0",
+        "avg_palate": "2.736220472440945"
+    },
+    {
+        "_id": "Saint Ides Brewing Company",
+        "max_palate": "5.0",
+        "min_palate": "1.0",
+        "avg_palate": "2.4871794871794872"
+    },
+    {
+        "_id": "Bristol Brewing Company",
+        "max_palate": "5.0",
+        "min_palate": "1.0",
+        "avg_palate": "3.667467948717949"
+    },
+    {
+        "_id": "Black Sheep Brewery PLC",
+        "max_palate": "5.0",
+        "min_palate": "1.5",
+        "avg_palate": "3.5721153846153846"
+    },
+    {
+        "_id": "George Bateman and Son Ltd. / Batemans Brewery",
+        "max_palate": "5.0",
+        "min_palate": "1.0",
+        "avg_palate": "3.640909090909091"
+    },
+    {
+        "_id": "Cucapá Brewing Company",
+        "max_palate": "5.0",
+        "min_palate": "2.0",
+        "avg_palate": "3.5380794701986753"
+    },
+    {
+        "_id": "Brauerei Gasthof Hartmann",
+        "max_palate": "5.0",
+        "min_palate": "2.0",
+        "avg_palate": "3.7058823529411766"
+    },
+    {
+        "_id": "Cigar City Brewing",
+        "max_palate": "5.0",
+        "min_palate": "3.0",
+        "avg_palate": "3.875"
+    },
+    {
+        "_id": "Pivovarna Laško",
+        "max_palate": "5.0",
+        "min_palate": "1.0",
+        "avg_palate": "3.0776699029126213"
+    },
+    {
+        "_id": "Founders Brewing Company",
+        "max_palate": "5.0",
+        "min_palate": "1.0",
+        "avg_palate": "4.136947610477905"
+    },
+    {
+        "_id": "Castle Bay Irish Pub",
+        "max_palate": "5.0",
+        "min_palate": "4.0",
+        "avg_palate": "4.333333333333333"
+    },
+    {
+        "_id": "Desert Edge Brewery",
+        "max_palate": "5.0",
+        "min_palate": "2.0",
+        "avg_palate": "3.3360655737704916"
+    },
+    {
+        "_id": "Stoudts Brewing Co.",
+        "max_palate": "5.0",
+        "min_palate": "1.5",
+        "avg_palate": "3.777281746031746"
+    },
+    {
+        "_id": "To Øl",
+        "max_palate": "5.0",
+        "min_palate": "2.5",
+        "avg_palate": "3.977272727272727"
+    },
+    {
+        "_id": "Cornelius Pass Roadhouse & Imbrie Hall (McMenamins)",
+        "max_palate": "5.0",
+        "min_palate": "3.0",
+        "avg_palate": "4.071428571428571"
+    },
+    {
+        "_id": "The Seven Barrel Brewery",
+        "max_palate": "5.0",
+        "min_palate": "2.5",
+        "avg_palate": "3.7465753424657535"
+    },
+    {
+        "_id": "Brauhaus Lemke",
+        "max_palate": "5.0",
+        "min_palate": "5.0",
+        "avg_palate": "5.0"
+    },
+    {
+        "_id": "Mountaineer Brewing Co.",
+        "max_palate": "5.0",
+        "min_palate": "2.0",
+        "avg_palate": "3.34375"
+    },
+    {
+        "_id": "Terminal Gravity Brewing Company",
+        "max_palate": "5.0",
+        "min_palate": "1.5",
+        "avg_palate": "3.7219827586206895"
+    },
+    {
+        "_id": "Plzensky Prazdroj, a. s.",
+        "max_palate": "5.0",
+        "min_palate": "1.0",
+        "avg_palate": "3.6271186440677967"
+    },
+    {
+        "_id": "Brauerei Heller-Trum / Schlenkerla",
+        "max_palate": "5.0",
+        "min_palate": "1.0",
+        "avg_palate": "3.9240848585690515"
+    },
+    {
+        "_id": "Browerij Nacional Balashi",
+        "max_palate": "5.0",
+        "min_palate": "1.5",
+        "avg_palate": "3.046153846153846"
+    },
+    {
+        "_id": "Black Forest Brew Haus & Grill",
+        "max_palate": "5.0",
+        "min_palate": "2.0",
+        "avg_palate": "3.7333333333333334"
+    },
+    {
+        "_id": "Fulton Beer",
+        "max_palate": "5.0",
+        "min_palate": "2.0",
+        "avg_palate": "3.7777777777777777"
+    },
+    {
+        "_id": "The Cowboy Restaurant & Brewery",
+        "max_palate": "5.0",
+        "min_palate": "3.0",
+        "avg_palate": "3.7666666666666666"
+    },
+    {
+        "_id": "Calapooia Brewing Company",
+        "max_palate": "5.0",
+        "min_palate": "1.5",
+        "avg_palate": "3.734375"
+    },
+    {
+        "_id": "Kirkwood Station Brewing Company",
+        "max_palate": "4.5",
+        "min_palate": "2.5",
+        "avg_palate": "3.619565217391304"
+    },
+    {
+        "_id": "Craggie Brewing Company",
+        "max_palate": "4.5",
+        "min_palate": "1.5",
+        "avg_palate": "3.8146067415730336"
+    },
+    {
+        "_id": "Why Not Brewery, The",
+        "max_palate": "4.5",
+        "min_palate": "4.0",
+        "avg_palate": "4.25"
+    },
+    {
+        "_id": "Crescent City Brewhouse",
+        "max_palate": "4.5",
+        "min_palate": "2.0",
+        "avg_palate": "3.47972972972973"
+    },
+    {
+        "_id": "Riverside Brewing Company",
+        "max_palate": "4.5",
+        "min_palate": "1.0",
+        "avg_palate": "2.9705882352941178"
+    },
+    {
+        "_id": "Ruth McGowan's Brewpub",
+        "max_palate": "4.5",
+        "min_palate": "3.5",
+        "avg_palate": "4.0"
+    },
+    {
+        "_id": "Mattingly Brewing Company",
+        "max_palate": "4.5",
+        "min_palate": "3.0",
+        "avg_palate": "3.787878787878788"
+    },
+    {
+        "_id": "McMenamins Old St. Francis School",
+        "max_palate": "4.5",
+        "min_palate": "2.0",
+        "avg_palate": "3.3333333333333335"
+    },
+    {
+        "_id": "Consorcio Cervecero De Baja California ( La Taberna TJ )",
+        "max_palate": "4.5",
+        "min_palate": "1.5",
+        "avg_palate": "3.4035087719298245"
+    },
+    {
+        "_id": "Emmett's Brewing Company",
+        "max_palate": "4.5",
+        "min_palate": "2.0",
+        "avg_palate": "3.730769230769231"
+    },
+    {
+        "_id": "CANOE Brewpub",
+        "max_palate": "4.5",
+        "min_palate": "2.5",
+        "avg_palate": "3.7857142857142856"
+    },
+    {
+        "_id": "Ninkasi Fabriques",
+        "max_palate": "4.5",
+        "min_palate": "4.0",
+        "avg_palate": "4.1"
+    },
+    {
+        "_id": "McMenamins Queen Anne Hill",
+        "max_palate": "4.5",
+        "min_palate": "3.0",
+        "avg_palate": "3.5625"
+    },
+    {
+        "_id": "Schorschbräu",
+        "max_palate": "4.5",
+        "min_palate": "2.0",
+        "avg_palate": "3.4705882352941178"
+    },
+    {
+        "_id": "Lotsolox Brewing Company",
+        "max_palate": "4.5",
+        "min_palate": "2.0",
+        "avg_palate": "3.5416666666666665"
+    },
+    {
+        "_id": "Meta Abo Brewery - Ethiopia",
+        "max_palate": "4.5",
+        "min_palate": "2.5",
+        "avg_palate": "3.3846153846153846"
+    },
+    {
+        "_id": "Denmark Brewing, LLC",
+        "max_palate": "4.5",
+        "min_palate": "2.5",
+        "avg_palate": "3.590909090909091"
+    },
+    {
+        "_id": "Wapping Beers Ltd.",
+        "max_palate": "4.5",
+        "min_palate": "2.0",
+        "avg_palate": "3.375"
+    },
+    {
+        "_id": "The Bruery",
+        "max_palate": "4.5",
+        "min_palate": "3.0",
+        "avg_palate": "3.75"
+    },
+    {
+        "_id": "Southern Tier Brewing Company",
+        "max_palate": "4.5",
+        "min_palate": "3.0",
+        "avg_palate": "3.7777777777777777"
+    },
+    {
+        "_id": "Monday Night Brewing",
+        "max_palate": "4.5",
+        "min_palate": "4.0",
+        "avg_palate": "4.285714285714286"
+    },
+    {
+        "_id": "Vertigo Brewing",
+        "max_palate": "4.5",
+        "min_palate": "3.0",
+        "avg_palate": "4.0"
+    },
+    {
+        "_id": "Pensacola Bay Brewery",
+        "max_palate": "4.5",
+        "min_palate": "3.0",
+        "avg_palate": "3.891304347826087"
+    },
+    {
+        "_id": "Jupiter",
+        "max_palate": "4.5",
+        "min_palate": "1.5",
+        "avg_palate": "3.740740740740741"
+    },
+    {
+        "_id": "Yeastie Boys",
+        "max_palate": "4.5",
+        "min_palate": "3.0",
+        "avg_palate": "3.745614035087719"
+    },
+    {
+        "_id": "Green Man Brewery",
+        "max_palate": "4.5",
+        "min_palate": "1.5",
+        "avg_palate": "3.375"
+    },
+    {
+        "_id": "Brauerei Gilde",
+        "max_palate": "4.5",
+        "min_palate": "2.0",
+        "avg_palate": "3.6447368421052633"
+    },
+    {
+        "_id": "Hijos De Rivera, S.A.",
+        "max_palate": "4.5",
+        "min_palate": "1.5",
+        "avg_palate": "2.99"
+    },
+    {
+        "_id": "Brouwerij Van Viven",
+        "max_palate": "4.5",
+        "min_palate": "2.5",
+        "avg_palate": "3.8703703703703702"
+    },
+    {
+        "_id": "Island Cafe & Brew Pub",
+        "max_palate": "4.5",
+        "min_palate": "2.0",
+        "avg_palate": "3.142857142857143"
+    },
+    {
+        "_id": "Brasserie Britt de Bretagne",
+        "max_palate": "4.5",
+        "min_palate": "2.0",
+        "avg_palate": "3.342857142857143"
+    },
+    {
+        "_id": "Growlers",
+        "max_palate": "4.5",
+        "min_palate": "2.0",
+        "avg_palate": "3.673076923076923"
+    },
+    {
+        "_id": "The Stable",
+        "max_palate": "4.5",
+        "min_palate": "2.0",
+        "avg_palate": "3.736842105263158"
+    },
+    {
+        "_id": "Birrificio Del Levante - Leone D'Oro",
+        "max_palate": "4.5",
+        "min_palate": "3.0",
+        "avg_palate": "3.75"
+    },
+    {
+        "_id": "Browar Staropolski",
+        "max_palate": "4.5",
+        "min_palate": "1.0",
+        "avg_palate": "3.2857142857142856"
+    },
+    {
+        "_id": "Pacific Coast Brewing Company",
+        "max_palate": "4.5",
+        "min_palate": "1.0",
+        "avg_palate": "3.6785714285714284"
+    },
+    {
+        "_id": "Brauerei Aldersbach",
+        "max_palate": "4.5",
+        "min_palate": "3.0",
+        "avg_palate": "3.8333333333333335"
+    },
+    {
+        "_id": "No-Li Brewhouse",
+        "max_palate": "4.5",
+        "min_palate": "2.0",
+        "avg_palate": "3.514018691588785"
+    },
+    {
+        "_id": "Kirkland Signature / Costco Wholesale Corporation",
+        "max_palate": "4.5",
+        "min_palate": "1.5",
+        "avg_palate": "3.195970695970696"
+    },
+    {
+        "_id": "Wildwood Brewing Co.",
+        "max_palate": "4.5",
+        "min_palate": "2.0",
+        "avg_palate": "3.5483870967741935"
+    },
+    {
+        "_id": "Kompania Piwowarska",
+        "max_palate": "4.5",
+        "min_palate": "2.0",
+        "avg_palate": "3.2045454545454546"
+    },
+    {
+        "_id": "Birrificio B.O.A. (Birrificio Ostiense Artigianale)",
+        "max_palate": "4.5",
+        "min_palate": "2.0",
+        "avg_palate": "3.3125"
+    },
+    {
+        "_id": "Mornington Peninsula Brewery",
+        "max_palate": "4.5",
+        "min_palate": "2.0",
+        "avg_palate": "3.546875"
+    },
+    {
+        "_id": "Hog Haus Brewing Company",
+        "max_palate": "4.5",
+        "min_palate": "2.5",
+        "avg_palate": "3.4722222222222223"
+    },
+    {
+        "_id": "Spanish Springs Brewing Company",
+        "max_palate": "4.5",
+        "min_palate": "2.0",
+        "avg_palate": "3.1785714285714284"
+    },
+    {
+        "_id": "Highwood Brewery Ltd.",
+        "max_palate": "4.5",
+        "min_palate": "2.0",
+        "avg_palate": "3.477272727272727"
+    },
+    {
+        "_id": "Seven Brides Brewing",
+        "max_palate": "4.5",
+        "min_palate": "1.5",
+        "avg_palate": "3.3214285714285716"
+    },
+    {
+        "_id": "Summit Station Restaurant & Brewery",
+        "max_palate": "4.5",
+        "min_palate": "1.0",
+        "avg_palate": "3.3157894736842106"
+    },
+    {
+        "_id": "Shamrock Brewing Co.",
+        "max_palate": "4.5",
+        "min_palate": "3.0",
+        "avg_palate": "3.7666666666666666"
+    },
+    {
+        "_id": "Rinkuškiai Alaus Darykloje",
+        "max_palate": "4.5",
+        "min_palate": "1.0",
+        "avg_palate": "2.980281690140845"
+    },
+    {
+        "_id": "Conwy Brewery Ltd",
+        "max_palate": "4.5",
+        "min_palate": "3.0",
+        "avg_palate": "3.611111111111111"
+    },
+    {
+        "_id": "Black Star Co-op Pub & Brewery",
+        "max_palate": "4.5",
+        "min_palate": "3.0",
+        "avg_palate": "3.761904761904762"
+    },
+    {
+        "_id": "San Francisco Brewing Company",
+        "max_palate": "4.5",
+        "min_palate": "1.5",
+        "avg_palate": "3.1555555555555554"
+    },
+    {
+        "_id": "Archers Brewing & Wholesale Limited",
+        "max_palate": "4.5",
+        "min_palate": "2.5",
+        "avg_palate": "3.5"
+    },
+    {
+        "_id": "Brasserie Artisanale De La Divatte",
+        "max_palate": "4.5",
+        "min_palate": "2.0",
+        "avg_palate": "3.1666666666666665"
+    },
+    {
+        "_id": "Tioga-Sequoia Brewing Company",
+        "max_palate": "4.5",
+        "min_palate": "3.0",
+        "avg_palate": "3.6666666666666665"
+    },
+    {
+        "_id": "Hereford & Hops Restaurant & Brewpub",
+        "max_palate": "4.5",
+        "min_palate": "1.0",
+        "avg_palate": "3.7142857142857144"
+    },
+    {
+        "_id": "O'Griff's Irish Pub & Brewhouse",
+        "max_palate": "4.5",
+        "min_palate": "2.0",
+        "avg_palate": "3.5166666666666666"
+    },
+    {
+        "_id": "Pivovar Ferdinand / Pivovar Beneov",
+        "max_palate": "4.5",
+        "min_palate": "2.0",
+        "avg_palate": "3.5"
+    },
+    {
+        "_id": "North Sound Brewing Company",
+        "max_palate": "4.5",
+        "min_palate": "2.0",
+        "avg_palate": "3.6578947368421053"
+    },
+    {
+        "_id": "Streets Of New York / Uptown Brewery",
+        "max_palate": "4.5",
+        "min_palate": "3.0",
+        "avg_palate": "3.55"
+    },
+    {
+        "_id": "Piccolo Birrificio",
+        "max_palate": "4.5",
+        "min_palate": "2.0",
+        "avg_palate": "3.627659574468085"
+    },
+    {
+        "_id": "Brasserie Dunham",
+        "max_palate": "4.5",
+        "min_palate": "2.0",
+        "avg_palate": "3.542944785276074"
+    },
+    {
+        "_id": "Staffelberg Bräu Fam. Geldner-Wehritz",
+        "max_palate": "4.5",
+        "min_palate": "3.5",
+        "avg_palate": "4.0"
+    },
+    {
+        "_id": "Cheriton Brewery",
+        "max_palate": "4.5",
+        "min_palate": "4.0",
+        "avg_palate": "4.166666666666667"
+    },
+    {
+        "_id": "Old Orange Brewing Co.",
+        "max_palate": "4.5",
+        "min_palate": "3.0",
+        "avg_palate": "3.642857142857143"
+    },
+    {
+        "_id": "Wasatch Brew Pub",
+        "max_palate": "4.5",
+        "min_palate": "1.5",
+        "avg_palate": "3.3456375838926173"
+    },
+    {
+        "_id": "Roslyn Brewing",
+        "max_palate": "4.5",
+        "min_palate": "1.5",
+        "avg_palate": "3.486111111111111"
+    },
+    {
+        "_id": "Pivovar Breznak",
+        "max_palate": "4.5",
+        "min_palate": "1.5",
+        "avg_palate": "3.352272727272727"
+    },
+    {
+        "_id": "Cannon Brew Pub",
+        "max_palate": "4.5",
+        "min_palate": "2.5",
+        "avg_palate": "3.426470588235294"
+    },
+    {
+        "_id": "7 Seas Brewery and Taproom",
+        "max_palate": "4.5",
+        "min_palate": "2.0",
+        "avg_palate": "3.5681818181818183"
+    },
+    {
+        "_id": "Tighthead Brewing Company",
+        "max_palate": "4.5",
+        "min_palate": "3.5",
+        "avg_palate": "4.0"
+    },
+    {
+        "_id": "Fernandes Brewery Tap",
+        "max_palate": "4.5",
+        "min_palate": "2.5",
+        "avg_palate": "3.8333333333333335"
+    },
+    {
+        "_id": "Mobjack Bay Brewing Company",
+        "max_palate": "4.5",
+        "min_palate": "2.0",
+        "avg_palate": "3.371794871794872"
+    },
+    {
+        "_id": "H.B. Clark & Co (Successors) Limited",
+        "max_palate": "4.5",
+        "min_palate": "2.5",
+        "avg_palate": "3.75"
+    },
+    {
+        "_id": "Kolos OAO/ Ledyanoy Stakanchik",
+        "max_palate": "4.0",
+        "min_palate": "2.0",
+        "avg_palate": "2.888888888888889"
+    },
+    {
+        "_id": "1702 / The Address Brewing Co.",
+        "max_palate": "4.0",
+        "min_palate": "4.0",
+        "avg_palate": "4.0"
+    },
+    {
+        "_id": "Mariposa Brewing Company",
+        "max_palate": "4.0",
+        "min_palate": "2.0",
+        "avg_palate": "3.1666666666666665"
+    },
+    {
+        "_id": "Roffey  Brewing Company",
+        "max_palate": "4.0",
+        "min_palate": "3.0",
+        "avg_palate": "3.4"
+    },
+    {
+        "_id": "Crested Butte Brewing Co.",
+        "max_palate": "4.0",
+        "min_palate": "3.5",
+        "avg_palate": "3.8333333333333335"
+    },
+    {
+        "_id": "Rheingold Brewing Co.",
+        "max_palate": "4.0",
+        "min_palate": "1.0",
+        "avg_palate": "2.688679245283019"
+    },
+    {
+        "_id": "Green Valley Brewing Company (Crooked Creek)",
+        "max_palate": "4.0",
+        "min_palate": "3.5",
+        "avg_palate": "3.75"
+    },
+    {
+        "_id": "City Grille and Brewhaus",
+        "max_palate": "4.0",
+        "min_palate": "1.0",
+        "avg_palate": "3.0"
+    },
+    {
+        "_id": "Pivovar Nymburk, spol. s r.o.",
+        "max_palate": "4.0",
+        "min_palate": "2.0",
+        "avg_palate": "3.05"
+    },
+    {
+        "_id": "Browar Kiper",
+        "max_palate": "4.0",
+        "min_palate": "2.0",
+        "avg_palate": "3.189655172413793"
+    },
+    {
+        "_id": "Swan Brewery",
+        "max_palate": "4.0",
+        "min_palate": "1.0",
+        "avg_palate": "2.347826086956522"
+    },
+    {
+        "_id": "Cerveceros Krut S.L.",
+        "max_palate": "4.0",
+        "min_palate": "4.0",
+        "avg_palate": "4.0"
+    },
+    {
+        "_id": "Hosokawa Sake Brewing Co., Ltd.",
+        "max_palate": "4.0",
+        "min_palate": "3.5",
+        "avg_palate": "3.75"
+    },
+    {
+        "_id": "High House Farm Brewery",
+        "max_palate": "4.0",
+        "min_palate": "2.5",
+        "avg_palate": "3.25"
+    },
+    {
+        "_id": "Spitting Feathers Brewery",
+        "max_palate": "4.0",
+        "min_palate": "4.0",
+        "avg_palate": "4.0"
+    },
+    {
+        "_id": "Kirner Bier",
+        "max_palate": "4.0",
+        "min_palate": "3.5",
+        "avg_palate": "3.9"
+    },
+    {
+        "_id": "Brauerei Hofstetten Krammer GmbH & Co. KG",
+        "max_palate": "4.0",
+        "min_palate": "4.0",
+        "avg_palate": "4.0"
+    },
+    {
+        "_id": "Wellington's Backwater Brewing Co.",
+        "max_palate": "4.0",
+        "min_palate": "1.5",
+        "avg_palate": "3.0789473684210527"
+    },
+    {
+        "_id": "Sternquell Brauerei Plauen",
+        "max_palate": "4.0",
+        "min_palate": "2.0",
+        "avg_palate": "3.3333333333333335"
+    },
+    {
+        "_id": "Palos De Moguer - 82",
+        "max_palate": "4.0",
+        "min_palate": "1.5",
+        "avg_palate": "3.15625"
+    },
+    {
+        "_id": "Zerodegrees Bristol",
+        "max_palate": "4.0",
+        "min_palate": "3.0",
+        "avg_palate": "3.3333333333333335"
+    },
+    {
+        "_id": "Mt Tabor Brewing",
+        "max_palate": "4.0",
+        "min_palate": "4.0",
+        "avg_palate": "4.0"
+    },
+    {
+        "_id": "Brasserie Craig Allan",
+        "max_palate": "4.0",
+        "min_palate": "3.0",
+        "avg_palate": "3.65"
+    },
+    {
+        "_id": "Bullant Brewery",
+        "max_palate": "4.0",
+        "min_palate": "3.5",
+        "avg_palate": "3.75"
+    },
+    {
+        "_id": "SBC Restaurant & Brewery - Milford",
+        "max_palate": "4.0",
+        "min_palate": "1.5",
+        "avg_palate": "3.230769230769231"
+    },
+    {
+        "_id": "Clockwork Beer Co, The",
+        "max_palate": "4.0",
+        "min_palate": "3.5",
+        "avg_palate": "3.875"
+    },
+    {
+        "_id": "Frog at Bercy Village, The",
+        "max_palate": "4.0",
+        "min_palate": "3.5",
+        "avg_palate": "3.9"
+    },
+    {
+        "_id": "Brasserie De La Chapelle",
+        "max_palate": "4.0",
+        "min_palate": "2.5",
+        "avg_palate": "3.5"
+    },
+    {
+        "_id": "Otro Mundo Brewing Company",
+        "max_palate": "4.0",
+        "min_palate": "2.0",
+        "avg_palate": "3.188888888888889"
+    },
+    {
+        "_id": "Martins Bräu Erste Freiburger Gasthausbrauerei",
+        "max_palate": "4.0",
+        "min_palate": "3.5",
+        "avg_palate": "3.875"
+    },
+    {
+        "_id": "Coors Brewers Ltd",
+        "max_palate": "4.0",
+        "min_palate": "1.0",
+        "avg_palate": "2.609375"
+    },
+    {
+        "_id": "Red Squirrel Brewery",
+        "max_palate": "4.0",
+        "min_palate": "3.5",
+        "avg_palate": "3.6666666666666665"
+    },
+    {
+        "_id": "Mallinsons Brewing Company",
+        "max_palate": "4.0",
+        "min_palate": "2.5",
+        "avg_palate": "3.5"
+    },
+    {
+        "_id": "Matso's Broome Brewery",
+        "max_palate": "4.0",
+        "min_palate": "2.0",
+        "avg_palate": "3.0"
+    },
+    {
+        "_id": "Kopparbergs Bryggeri AB (Sofiero - Banco - Zeunerts)",
+        "max_palate": "4.0",
+        "min_palate": "1.0",
+        "avg_palate": "2.7162162162162162"
+    },
+    {
+        "_id": "Brasserie d'Orgemont",
+        "max_palate": "4.0",
+        "min_palate": "3.5",
+        "avg_palate": "3.5833333333333335"
+    },
+    {
+        "_id": "Highland Pub & Brewery (McMenamins)",
+        "max_palate": "4.0",
+        "min_palate": "3.0",
+        "avg_palate": "3.3333333333333335"
+    },
+    {
+        "_id": "Ivory Tower Brewing",
+        "max_palate": "4.0",
+        "min_palate": "3.5",
+        "avg_palate": "3.75"
+    },
+    {
+        "_id": "Brauerei Neder",
+        "max_palate": "4.0",
+        "min_palate": "3.5",
+        "avg_palate": "3.8125"
+    },
+    {
+        "_id": "Gentle Ben's Brewing Company",
+        "max_palate": "4.0",
+        "min_palate": "4.0",
+        "avg_palate": "4.0"
+    },
+    {
+        "_id": "Zak&#322;ady Piwowarskie w Le&#380;ajsku S.A.",
+        "max_palate": "4.0",
+        "min_palate": "1.0",
+        "avg_palate": "2.9722222222222223"
+    },
+    {
+        "_id": "Birrificio Indipendente Elav",
+        "max_palate": "4.0",
+        "min_palate": "2.5",
+        "avg_palate": "3.1"
+    },
+    {
+        "_id": "Heineken Nederland B.V.",
+        "max_palate": "4.0",
+        "min_palate": "1.0",
+        "avg_palate": "2.6923076923076925"
+    },
+    {
+        "_id": "Inlet Brewing Co.",
+        "max_palate": "4.0",
+        "min_palate": "2.0",
+        "avg_palate": "3.289473684210526"
+    },
+    {
+        "_id": "William K Busch Brewing Company",
+        "max_palate": "4.0",
+        "min_palate": "2.5",
+        "avg_palate": "3.25"
+    },
+    {
+        "_id": "Brauerei An Der Thomaskirche",
+        "max_palate": "4.0",
+        "min_palate": "2.5",
+        "avg_palate": "3.5"
+    },
+    {
+        "_id": "Lido Atputas Centrs",
+        "max_palate": "4.0",
+        "min_palate": "2.5",
+        "avg_palate": "3.25"
+    },
+    {
+        "_id": "Southend Brewery & Smokehouse",
+        "max_palate": "4.0",
+        "min_palate": "4.0",
+        "avg_palate": "4.0"
+    },
+    {
+        "_id": "Harboes Bryggeri A/S",
+        "max_palate": "4.0",
+        "min_palate": "1.0",
+        "avg_palate": "2.75"
+    },
+    {
+        "_id": "Nelson Brewing Company",
+        "max_palate": "4.0",
+        "min_palate": "3.5",
+        "avg_palate": "3.625"
+    },
+    {
+        "_id": "Pivovaren Zavod Varensko Pivo",
+        "max_palate": "4.0",
+        "min_palate": "2.5",
+        "avg_palate": "3.25"
+    },
+    {
+        "_id": "Solvang Brewing Company",
+        "max_palate": "4.0",
+        "min_palate": "1.5",
+        "avg_palate": "2.8333333333333335"
+    },
+    {
+        "_id": "Scarampola",
+        "max_palate": "4.0",
+        "min_palate": "3.5",
+        "avg_palate": "3.75"
+    },
+    {
+        "_id": "Livu Alus",
+        "max_palate": "4.0",
+        "min_palate": "2.5",
+        "avg_palate": "3.125"
+    },
+    {
+        "_id": "Streichs Brewing Co.",
+        "max_palate": "4.0",
+        "min_palate": "3.0",
+        "avg_palate": "3.375"
+    },
+    {
+        "_id": "Tied House Cafe & Brewery",
+        "max_palate": "4.0",
+        "min_palate": "1.0",
+        "avg_palate": "3.0344827586206895"
+    },
+    {
+        "_id": "Nail Creek Pub & Brewery",
+        "max_palate": "4.0",
+        "min_palate": "4.0",
+        "avg_palate": "4.0"
+    },
+    {
+        "_id": "Louisiane Brewhouse, Nha Trang",
+        "max_palate": "4.0",
+        "min_palate": "3.0",
+        "avg_palate": "3.5"
+    },
+    {
+        "_id": "Sierra Nevada Brewing Co.",
+        "max_palate": "4.0",
+        "min_palate": "3.5",
+        "avg_palate": "3.875"
+    },
+    {
+        "_id": "Taybeh Brewing Co.",
+        "max_palate": "4.0",
+        "min_palate": "1.5",
+        "avg_palate": "3.2045454545454546"
+    },
+    {
+        "_id": "Copper Crow Brewing Company",
+        "max_palate": "4.0",
+        "min_palate": "2.5",
+        "avg_palate": "3.5"
+    },
+    {
+        "_id": "Black Tooth Brewing Company",
+        "max_palate": "4.0",
+        "min_palate": "3.0",
+        "avg_palate": "3.5833333333333335"
+    },
+    {
+        "_id": "Ancient Lakes Brewing Company",
+        "max_palate": "4.0",
+        "min_palate": "4.0",
+        "avg_palate": "4.0"
+    },
+    {
+        "_id": "Brouwerij Ter Dolen N.V.",
+        "max_palate": "4.0",
+        "min_palate": "2.5",
+        "avg_palate": "3.676470588235294"
+    },
+    {
+        "_id": "Big Hurt Brewing Company",
+        "max_palate": "4.0",
+        "min_palate": "2.5",
+        "avg_palate": "3.1875"
+    },
+    {
+        "_id": "Stadtbrauerei Arnstadt",
+        "max_palate": "4.0",
+        "min_palate": "4.0",
+        "avg_palate": "4.0"
+    },
+    {
+        "_id": "Fujian Yanjing Huiquan Brewery Co., Ltd.",
+        "max_palate": "4.0",
+        "min_palate": "4.0",
+        "avg_palate": "4.0"
+    },
+    {
+        "_id": "Finger Lakes Beer Company",
+        "max_palate": "4.0",
+        "min_palate": "3.5",
+        "avg_palate": "3.75"
+    },
+    {
+        "_id": "Sauris AgriBeer S.a.s",
+        "max_palate": "4.0",
+        "min_palate": "2.0",
+        "avg_palate": "2.7"
+    },
+    {
+        "_id": "Al Ahram Beverages Company",
+        "max_palate": "4.0",
+        "min_palate": "1.5",
+        "avg_palate": "2.65"
+    },
+    {
+        "_id": "The Hartford Better Beer Co.",
+        "max_palate": "4.0",
+        "min_palate": "2.0",
+        "avg_palate": "3.2051282051282053"
+    },
+    {
+        "_id": "Flying Fish Brewing Company",
+        "max_palate": "4.0",
+        "min_palate": "2.5",
+        "avg_palate": "3.25"
+    },
+    {
+        "_id": "Speciaalbierbrouwerij Oijen",
+        "max_palate": "4.0",
+        "min_palate": "2.5",
+        "avg_palate": "3.375"
+    },
+    {
+        "_id": "De Fontein",
+        "max_palate": "4.0",
+        "min_palate": "3.5",
+        "avg_palate": "3.75"
+    },
+    {
+        "_id": "Privatbrauerei Hösl",
+        "max_palate": "4.0",
+        "min_palate": "4.0",
+        "avg_palate": "4.0"
+    },
+    {
+        "_id": "Pivovarsky Dvur Zvikov",
+        "max_palate": "4.0",
+        "min_palate": "3.5",
+        "avg_palate": "3.6666666666666665"
+    },
+    {
+        "_id": "Raw Microbrewery",
+        "max_palate": "4.0",
+        "min_palate": "4.0",
+        "avg_palate": "4.0"
+    },
+    {
+        "_id": "Winkels Getränke GmbH & Co./Markgrafenbräu",
+        "max_palate": "4.0",
+        "min_palate": "2.5",
+        "avg_palate": "3.25"
+    },
+    {
+        "_id": "Underground, The",
+        "max_palate": "4.0",
+        "min_palate": "3.0",
+        "avg_palate": "3.5"
+    },
+    {
+        "_id": "Brew Eyed",
+        "max_palate": "4.0",
+        "min_palate": "3.5",
+        "avg_palate": "3.6666666666666665"
+    },
+    {
+        "_id": "Richmodis-Bräu",
+        "max_palate": "4.0",
+        "min_palate": "4.0",
+        "avg_palate": "4.0"
+    },
+    {
+        "_id": "Bryggeriet Refsvindinge",
+        "max_palate": "4.0",
+        "min_palate": "2.0",
+        "avg_palate": "3.3"
+    },
+    {
+        "_id": "4th Street Brewing Company",
+        "max_palate": "4.0",
+        "min_palate": "2.5",
+        "avg_palate": "3.3333333333333335"
+    },
+    {
+        "_id": "Cervejaria Schornstein",
+        "max_palate": "4.0",
+        "min_palate": "4.0",
+        "avg_palate": "4.0"
+    },
+    {
+        "_id": "Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company",
+        "max_palate": "4.0",
+        "min_palate": "4.0",
+        "avg_palate": "4.0"
+    },
+    {
+        "_id": "The Two Metre Tall Company Pty Ltd",
+        "max_palate": "4.0",
+        "min_palate": "1.0",
+        "avg_palate": "2.828125"
+    },
+    {
+        "_id": "Kolding Bryglaug",
+        "max_palate": "4.0",
+        "min_palate": "3.0",
+        "avg_palate": "3.7857142857142856"
+    },
+    {
+        "_id": "Growler Craft Brewery",
+        "max_palate": "4.0",
+        "min_palate": "3.0",
+        "avg_palate": "3.6"
+    },
+    {
+        "_id": "Destiny Brewing Company",
+        "max_palate": "4.0",
+        "min_palate": "3.0",
+        "avg_palate": "3.730769230769231"
+    },
+    {
+        "_id": "Naturbier",
+        "max_palate": "4.0",
+        "min_palate": "3.0",
+        "avg_palate": "3.4285714285714284"
+    },
+    {
+        "_id": "Colorado Mountain Brewery",
+        "max_palate": "4.0",
+        "min_palate": "3.5",
+        "avg_palate": "3.75"
+    },
+    {
+        "_id": "SBC Restaurant & Brewery - Hamden",
+        "max_palate": "4.0",
+        "min_palate": "2.5",
+        "avg_palate": "3.2777777777777777"
+    },
+    {
+        "_id": "Becker Brewing Company",
+        "max_palate": "4.0",
+        "min_palate": "3.0",
+        "avg_palate": "3.6"
+    },
+    {
+        "_id": "Steelback Brewery",
+        "max_palate": "3.5",
+        "min_palate": "1.0",
+        "avg_palate": "1.9415584415584415"
+    },
+    {
+        "_id": "Stone Iwamoto Co., Ltd / Hakusekikan Beer Restaurant BACCHUS",
+        "max_palate": "3.5",
+        "min_palate": "3.5",
+        "avg_palate": "3.5"
+    },
+    {
+        "_id": "Dostal Alley Brewpub",
+        "max_palate": "3.5",
+        "min_palate": "1.5",
+        "avg_palate": "2.625"
+    },
+    {
+        "_id": "Okhotsk Brewery Inc.",
+        "max_palate": "3.5",
+        "min_palate": "2.5",
+        "avg_palate": "3.0"
+    },
+    {
+        "_id": "Imperial Premium Beer Ltda.",
+        "max_palate": "3.5",
+        "min_palate": "3.5",
+        "avg_palate": "3.5"
+    },
+    {
+        "_id": "Drei Kronen 1308 Brauhaus",
+        "max_palate": "3.5",
+        "min_palate": "3.0",
+        "avg_palate": "3.25"
+    },
+    {
+        "_id": "Pivara MB",
+        "max_palate": "3.5",
+        "min_palate": "3.5",
+        "avg_palate": "3.5"
+    },
+    {
+        "_id": "Sonnenbräu AG",
+        "max_palate": "3.5",
+        "min_palate": "2.0",
+        "avg_palate": "2.75"
+    },
+    {
+        "_id": "Bertram's Salmon Valley Brewery & Restaurant",
+        "max_palate": "3.5",
+        "min_palate": "3.5",
+        "avg_palate": "3.5"
+    },
+    {
+        "_id": "Van Der Bönerbosch Brewing Company, LLC",
+        "max_palate": "3.5",
+        "min_palate": "2.5",
+        "avg_palate": "3.0"
+    },
+    {
+        "_id": "Inertia Industries Ltd.",
+        "max_palate": "3.5",
+        "min_palate": "3.0",
+        "avg_palate": "3.1"
+    },
+    {
+        "_id": "Bakushukan Clair (Kure Beer)",
+        "max_palate": "3.5",
+        "min_palate": "3.5",
+        "avg_palate": "3.5"
+    },
+    {
+        "_id": "Landhausbräu Koller",
+        "max_palate": "3.5",
+        "min_palate": "3.0",
+        "avg_palate": "3.25"
+    },
+    {
+        "_id": "Brasserie d'Algiers",
+        "max_palate": "3.5",
+        "min_palate": "1.0",
+        "avg_palate": "2.25"
+    },
+    {
+        "_id": "Ram Restaurant & Brewery",
+        "max_palate": "3.5",
+        "min_palate": "3.5",
+        "avg_palate": "3.5"
+    },
+    {
+        "_id": "Great Sex Brewing, Inc.",
+        "max_palate": "3.5",
+        "min_palate": "1.0",
+        "avg_palate": "2.3333333333333335"
+    },
+    {
+        "_id": "Golden State Brewing Company",
+        "max_palate": "3.5",
+        "min_palate": "3.5",
+        "avg_palate": "3.5"
+    },
+    {
+        "_id": "Piniavos Alutis",
+        "max_palate": "3.5",
+        "min_palate": "3.5",
+        "avg_palate": "3.5"
+    },
+    {
+        "_id": "Brewfist",
+        "max_palate": "3.5",
+        "min_palate": "2.0",
+        "avg_palate": "3.1"
+    },
+    {
+        "_id": "Bauer´s Marchfelder Storchenbräu",
+        "max_palate": "3.5",
+        "min_palate": "3.5",
+        "avg_palate": "3.5"
+    },
+    {
+        "_id": "White Bluffs Brewing Company",
+        "max_palate": "3.5",
+        "min_palate": "3.5",
+        "avg_palate": "3.5"
+    },
+    {
+        "_id": "Marco Island Brewery",
+        "max_palate": "3.5",
+        "min_palate": "3.0",
+        "avg_palate": "3.3"
+    },
+    {
+        "_id": "Brasseurs Savoyards",
+        "max_palate": "3.5",
+        "min_palate": "3.0",
+        "avg_palate": "3.25"
+    },
+    {
+        "_id": "Weib´s Brauhaus",
+        "max_palate": "3.5",
+        "min_palate": "3.5",
+        "avg_palate": "3.5"
+    },
+    {
+        "_id": "Les Sarments",
+        "max_palate": "3.5",
+        "min_palate": "3.5",
+        "avg_palate": "3.5"
+    },
+    {
+        "_id": "Rusty Truck Brewing Company / Roadhouse 101",
+        "max_palate": "3.5",
+        "min_palate": "3.5",
+        "avg_palate": "3.5"
+    },
+    {
+        "_id": "Brasserie De La Baie",
+        "max_palate": "3.5",
+        "min_palate": "3.0",
+        "avg_palate": "3.375"
+    },
+    {
+        "_id": "Valhalla Brewery (Sheltand Refreshments Ltd)",
+        "max_palate": "3.5",
+        "min_palate": "3.5",
+        "avg_palate": "3.5"
+    },
+    {
+        "_id": "Grumpy's Brewhaus",
+        "max_palate": "3.5",
+        "min_palate": "3.0",
+        "avg_palate": "3.25"
+    },
+    {
+        "_id": "DUFF Sales & Marketing E.K.",
+        "max_palate": "3.5",
+        "min_palate": "1.5",
+        "avg_palate": "2.5"
+    },
+    {
+        "_id": "Formosa Brewing Co.",
+        "max_palate": "3.5",
+        "min_palate": "2.0",
+        "avg_palate": "3.0"
+    },
+    {
+        "_id": "Accra Brewery Limited",
+        "max_palate": "3.0",
+        "min_palate": "1.5",
+        "avg_palate": "2.4285714285714284"
+    },
+    {
+        "_id": "Asmara Breweries",
+        "max_palate": "3.0",
+        "min_palate": "3.0",
+        "avg_palate": "3.0"
+    },
+    {
+        "_id": "Olympic Brewery S.A.",
+        "max_palate": "3.0",
+        "min_palate": "3.0",
+        "avg_palate": "3.0"
+    },
+    {
+        "_id": "Rustic Rail Grill And Brewhouse",
+        "max_palate": "3.0",
+        "min_palate": "2.0",
+        "avg_palate": "2.3333333333333335"
+    },
+    {
+        "_id": "Mt. Angel Brewing Company",
+        "max_palate": "3.0",
+        "min_palate": "3.0",
+        "avg_palate": "3.0"
+    },
+    {
+        "_id": "Ölgerð Reykjavíkur",
+        "max_palate": "3.0",
+        "min_palate": "3.0",
+        "avg_palate": "3.0"
+    },
+    {
+        "_id": "Amstar",
+        "max_palate": "3.0",
+        "min_palate": "1.5",
+        "avg_palate": "2.3125"
+    },
+    {
+        "_id": "Vecchio Birraio",
+        "max_palate": "3.0",
+        "min_palate": "1.5",
+        "avg_palate": "2.5"
+    },
+    {
+        "_id": "Pirinsko Pivo",
+        "max_palate": "3.0",
+        "min_palate": "3.0",
+        "avg_palate": "3.0"
+    },
+    {
+        "_id": "Alcatraz Brewing Co.",
+        "max_palate": "3.0",
+        "min_palate": "3.0",
+        "avg_palate": "3.0"
+    },
+    {
+        "_id": "Coastal Extreme Brewing Co.",
+        "max_palate": "3.0",
+        "min_palate": "3.0",
+        "avg_palate": "3.0"
+    },
+    {
+        "_id": "Cheers Tavern",
+        "max_palate": "3.0",
+        "min_palate": "2.5",
+        "avg_palate": "2.875"
+    },
+    {
+        "_id": "Newby Wyke Brewery",
+        "max_palate": "3.0",
+        "min_palate": "3.0",
+        "avg_palate": "3.0"
+    },
+    {
+        "_id": "Voronezhsky Brewery",
+        "max_palate": "3.0",
+        "min_palate": "3.0",
+        "avg_palate": "3.0"
+    },
+    {
+        "_id": "Bayerische Brauerei Kaiserslautern",
+        "max_palate": "3.0",
+        "min_palate": "3.0",
+        "avg_palate": "3.0"
+    },
+    {
+        "_id": "Pivovar Groll",
+        "max_palate": "3.0",
+        "min_palate": "3.0",
+        "avg_palate": "3.0"
+    },
+    {
+        "_id": "Ufford Ales Ltd.",
+        "max_palate": "3.0",
+        "min_palate": "3.0",
+        "avg_palate": "3.0"
+    },
+    {
+        "_id": "SP Etrus",
+        "max_palate": "3.0",
+        "min_palate": "3.0",
+        "avg_palate": "3.0"
+    },
+    {
+        "_id": "Kössel Bräu",
+        "max_palate": "3.0",
+        "min_palate": "3.0",
+        "avg_palate": "3.0"
+    },
+    {
+        "_id": "Birrificio F.lli Trami",
+        "max_palate": "3.0",
+        "min_palate": "3.0",
+        "avg_palate": "3.0"
+    },
+    {
+        "_id": "Abbey Bells Brewery",
+        "max_palate": "3.0",
+        "min_palate": "3.0",
+        "avg_palate": "3.0"
+    },
+    {
+        "_id": "Wm. Kuether Brewing",
+        "max_palate": "2.5",
+        "min_palate": "2.0",
+        "avg_palate": "2.25"
+    },
+    {
+        "_id": "Bootleggers Restaurant & Brewery",
+        "max_palate": "2.5",
+        "min_palate": "2.5",
+        "avg_palate": "2.5"
+    },
+    {
+        "_id": "Brasserie Artisanale Savoyarde - B.A.S.",
+        "max_palate": "2.0",
+        "min_palate": "2.0",
+        "avg_palate": "2.0"
+    },
+    {
+        "_id": "Florida Beer Company",
+        "max_palate": "2.0",
+        "min_palate": "2.0",
+        "avg_palate": "2.0"
+    },
+    {
+        "_id": "Brasserie Nationale (Bofferding)",
+        "max_palate": "2.0",
+        "min_palate": "2.0",
+        "avg_palate": "2.0"
+    },
+    {
+        "_id": "Eastwood The Brewer (John Eastwood)",
+        "max_palate": "2.0",
+        "min_palate": "2.0",
+        "avg_palate": "2.0"
+    },
+    {
+        "_id": "South African Breweries plc",
+        "max_palate": "2.0",
+        "min_palate": "2.0",
+        "avg_palate": "2.0"
+    },
+    {
+        "_id": "Små Vesen Bryggeri",
+        "max_palate": "1.5",
+        "min_palate": "1.5",
+        "avg_palate": "1.5"
+    },
+    {
+        "_id": "Royal Unibrew A/S",
+        "max_palate": "1.5",
+        "min_palate": "1.5",
+        "avg_palate": "1.5"
+    }
+]
