@@ -1,0 +1,394 @@
+[
+    {
+        "_id": "Kölsch",
+        "count": "113"
+    },
+    {
+        "_id": "Bière de Garde",
+        "count": "35"
+    },
+    {
+        "_id": "Munich Dunkel Lager",
+        "count": "257"
+    },
+    {
+        "_id": "Black & Tan",
+        "count": "127"
+    },
+    {
+        "_id": "American Blonde Ale",
+        "count": "491"
+    },
+    {
+        "_id": "American Pale Ale (APA)",
+        "count": "2871"
+    },
+    {
+        "_id": "Keller Bier / Zwickel Bier",
+        "count": "29"
+    },
+    {
+        "_id": "German Pilsener",
+        "count": "531"
+    },
+    {
+        "_id": "Altbier",
+        "count": "429"
+    },
+    {
+        "_id": "American Dark Wheat Ale",
+        "count": "23"
+    },
+    {
+        "_id": "Old Ale",
+        "count": "1067"
+    },
+    {
+        "_id": "Witbier",
+        "count": "312"
+    },
+    {
+        "_id": "American Pale Lager",
+        "count": "193"
+    },
+    {
+        "_id": "English Stout",
+        "count": "136"
+    },
+    {
+        "_id": "Belgian IPA",
+        "count": "141"
+    },
+    {
+        "_id": "Belgian Pale Ale",
+        "count": "183"
+    },
+    {
+        "_id": "Bock",
+        "count": "182"
+    },
+    {
+        "_id": "American Brown Ale",
+        "count": "415"
+    },
+    {
+        "_id": "Berliner Weissbier",
+        "count": "10"
+    },
+    {
+        "_id": "American Wild Ale",
+        "count": "251"
+    },
+    {
+        "_id": "English Barleywine",
+        "count": "142"
+    },
+    {
+        "_id": "Oatmeal Stout",
+        "count": "240"
+    },
+    {
+        "_id": "English Pale Ale",
+        "count": "1364"
+    },
+    {
+        "_id": "Scottish Ale",
+        "count": "200"
+    },
+    {
+        "_id": "Irish Dry Stout",
+        "count": "167"
+    },
+    {
+        "_id": "Lambic - Unblended",
+        "count": "21"
+    },
+    {
+        "_id": "Euro Strong Lager",
+        "count": "345"
+    },
+    {
+        "_id": "Dubbel",
+        "count": "140"
+    },
+    {
+        "_id": "Wheatwine",
+        "count": "455"
+    },
+    {
+        "_id": "Belgian Strong Pale Ale",
+        "count": "670"
+    },
+    {
+        "_id": "Kvass",
+        "count": "2"
+    },
+    {
+        "_id": "Light Lager",
+        "count": "528"
+    },
+    {
+        "_id": "Scottish Gruit / Ancient Herbed Ale",
+        "count": "75"
+    },
+    {
+        "_id": "English Brown Ale",
+        "count": "529"
+    },
+    {
+        "_id": "Schwarzbier",
+        "count": "74"
+    },
+    {
+        "_id": "English Dark Mild Ale",
+        "count": "72"
+    },
+    {
+        "_id": "Vienna Lager",
+        "count": "46"
+    },
+    {
+        "_id": "Herbed / Spiced Beer",
+        "count": "111"
+    },
+    {
+        "_id": "Winter Warmer",
+        "count": "289"
+    },
+    {
+        "_id": "Foreign / Export Stout",
+        "count": "65"
+    },
+    {
+        "_id": "Irish Red Ale",
+        "count": "110"
+    },
+    {
+        "_id": "American Double / Imperial Stout",
+        "count": "6453"
+    },
+    {
+        "_id": "American Double / Imperial Pilsner",
+        "count": "143"
+    },
+    {
+        "_id": "Dortmunder / Export Lager",
+        "count": "42"
+    },
+    {
+        "_id": "Euro Dark Lager",
+        "count": "292"
+    },
+    {
+        "_id": "Dunkelweizen",
+        "count": "90"
+    },
+    {
+        "_id": "Chile Beer",
+        "count": "11"
+    },
+    {
+        "_id": "English Pale Mild Ale",
+        "count": "35"
+    },
+    {
+        "_id": "American Strong Ale",
+        "count": "240"
+    },
+    {
+        "_id": "American Stout",
+        "count": "703"
+    },
+    {
+        "_id": "American Malt Liquor",
+        "count": "95"
+    },
+    {
+        "_id": "Quadrupel (Quad)",
+        "count": "128"
+    },
+    {
+        "_id": "American Amber / Red Lager",
+        "count": "86"
+    },
+    {
+        "_id": "Eisbock",
+        "count": "10"
+    },
+    {
+        "_id": "Low Alcohol Beer",
+        "count": "8"
+    },
+    {
+        "_id": "Doppelbock",
+        "count": "887"
+    },
+    {
+        "_id": "American IPA",
+        "count": "5148"
+    },
+    {
+        "_id": "English Porter",
+        "count": "383"
+    },
+    {
+        "_id": "Kristalweizen",
+        "count": "8"
+    },
+    {
+        "_id": "Munich Helles Lager",
+        "count": "659"
+    },
+    {
+        "_id": "Czech Pilsener",
+        "count": "1558"
+    },
+    {
+        "_id": "American Double / Imperial IPA",
+        "count": "5089"
+    },
+    {
+        "_id": "Belgian Strong Dark Ale",
+        "count": "150"
+    },
+    {
+        "_id": "American Barleywine",
+        "count": "912"
+    },
+    {
+        "_id": "Tripel",
+        "count": "443"
+    },
+    {
+        "_id": "Hefeweizen",
+        "count": "908"
+    },
+    {
+        "_id": "Japanese Rice Lager",
+        "count": "6"
+    },
+    {
+        "_id": "Russian Imperial Stout",
+        "count": "3229"
+    },
+    {
+        "_id": "English Bitter",
+        "count": "312"
+    },
+    {
+        "_id": "Märzen / Oktoberfest",
+        "count": "623"
+    },
+    {
+        "_id": "Saison / Farmhouse Ale",
+        "count": "354"
+    },
+    {
+        "_id": "Maibock / Helles Bock",
+        "count": "248"
+    },
+    {
+        "_id": "Euro Pale Lager",
+        "count": "962"
+    },
+    {
+        "_id": "Fruit / Vegetable Beer",
+        "count": "1428"
+    },
+    {
+        "_id": "Flanders Red Ale",
+        "count": "1387"
+    },
+    {
+        "_id": "Lambic - Fruit",
+        "count": "24"
+    },
+    {
+        "_id": "American Amber / Red Ale",
+        "count": "1350"
+    },
+    {
+        "_id": "California Common / Steam Beer",
+        "count": "14"
+    },
+    {
+        "_id": "American Pale Wheat Ale",
+        "count": "245"
+    },
+    {
+        "_id": "Rauchbier",
+        "count": "1944"
+    },
+    {
+        "_id": "Flanders Oud Bruin",
+        "count": "20"
+    },
+    {
+        "_id": "Weizenbock",
+        "count": "29"
+    },
+    {
+        "_id": "American Black Ale",
+        "count": "172"
+    },
+    {
+        "_id": "Cream Ale",
+        "count": "94"
+    },
+    {
+        "_id": "Milk / Sweet Stout",
+        "count": "208"
+    },
+    {
+        "_id": "Belgian Dark Ale",
+        "count": "337"
+    },
+    {
+        "_id": "Braggot",
+        "count": "26"
+    },
+    {
+        "_id": "American Porter",
+        "count": "2370"
+    },
+    {
+        "_id": "English India Pale Ale (IPA)",
+        "count": "203"
+    },
+    {
+        "_id": "Smoked Beer",
+        "count": "71"
+    },
+    {
+        "_id": "Baltic Porter",
+        "count": "539"
+    },
+    {
+        "_id": "English Strong Ale",
+        "count": "168"
+    },
+    {
+        "_id": "Rye Beer",
+        "count": "1817"
+    },
+    {
+        "_id": "Roggenbier",
+        "count": "4"
+    },
+    {
+        "_id": "Extra Special / Strong Bitter (ESB)",
+        "count": "520"
+    },
+    {
+        "_id": "Pumpkin Ale",
+        "count": "665"
+    },
+    {
+        "_id": "American Adjunct Lager",
+        "count": "454"
+    },
+    {
+        "_id": "Scotch Ale / Wee Heavy",
+        "count": "2806"
+    }
+]
