@@ -1,0 +1,1 @@
+{"date": "category", "price": "uint64", "level": "uint8", "levels": "uint8", "rooms": "int64", "area": "float32", "kitchen_area": "float32", "geo_lat": "float32", "geo_lon": "float32", "building_type": "uint8", "object_type": "uint8", "postal_code": "float32", "street_id": "float32", "id_region": "uint8", "house_id": "float32"}

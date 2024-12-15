@@ -1,0 +1,92 @@
+[
+    {
+        "column_name": "price",
+        "memory_abs": 88735.0,
+        "memory_per": 15.6854,
+        "dtype": "uint64"
+    },
+    {
+        "column_name": "rooms",
+        "memory_abs": 88735.0,
+        "memory_per": 15.6854,
+        "dtype": "int64"
+    },
+    {
+        "column_name": "area",
+        "memory_abs": 44367.0,
+        "memory_per": 7.8427,
+        "dtype": "float32"
+    },
+    {
+        "column_name": "kitchen_area",
+        "memory_abs": 44367.0,
+        "memory_per": 7.8427,
+        "dtype": "float32"
+    },
+    {
+        "column_name": "geo_lat",
+        "memory_abs": 44367.0,
+        "memory_per": 7.8427,
+        "dtype": "float32"
+    },
+    {
+        "column_name": "geo_lon",
+        "memory_abs": 44367.0,
+        "memory_per": 7.8427,
+        "dtype": "float32"
+    },
+    {
+        "column_name": "postal_code",
+        "memory_abs": 44367.0,
+        "memory_per": 7.8427,
+        "dtype": "float32"
+    },
+    {
+        "column_name": "street_id",
+        "memory_abs": 44367.0,
+        "memory_per": 7.8427,
+        "dtype": "float32"
+    },
+    {
+        "column_name": "house_id",
+        "memory_abs": 44367.0,
+        "memory_per": 7.8427,
+        "dtype": "float32"
+    },
+    {
+        "column_name": "date",
+        "memory_abs": 22215.0,
+        "memory_per": 3.927,
+        "dtype": "category"
+    },
+    {
+        "column_name": "level",
+        "memory_abs": 11091.0,
+        "memory_per": 1.9607,
+        "dtype": "uint8"
+    },
+    {
+        "column_name": "levels",
+        "memory_abs": 11091.0,
+        "memory_per": 1.9607,
+        "dtype": "uint8"
+    },
+    {
+        "column_name": "building_type",
+        "memory_abs": 11091.0,
+        "memory_per": 1.9607,
+        "dtype": "uint8"
+    },
+    {
+        "column_name": "object_type",
+        "memory_abs": 11091.0,
+        "memory_per": 1.9607,
+        "dtype": "uint8"
+    },
+    {
+        "column_name": "id_region",
+        "memory_abs": 11091.0,
+        "memory_per": 1.9607,
+        "dtype": "uint8"
+    }
+]
