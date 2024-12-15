@@ -1,0 +1,92 @@
+[
+    {
+        "column_name": "date",
+        "memory_abs": 743159.0,
+        "memory_per": 37.4302,
+        "dtype": "object"
+    },
+    {
+        "column_name": "price",
+        "memory_abs": 88735.0,
+        "memory_per": 4.4693,
+        "dtype": "int64"
+    },
+    {
+        "column_name": "level",
+        "memory_abs": 88735.0,
+        "memory_per": 4.4693,
+        "dtype": "int64"
+    },
+    {
+        "column_name": "levels",
+        "memory_abs": 88735.0,
+        "memory_per": 4.4693,
+        "dtype": "int64"
+    },
+    {
+        "column_name": "rooms",
+        "memory_abs": 88735.0,
+        "memory_per": 4.4693,
+        "dtype": "int64"
+    },
+    {
+        "column_name": "area",
+        "memory_abs": 88735.0,
+        "memory_per": 4.4693,
+        "dtype": "float64"
+    },
+    {
+        "column_name": "kitchen_area",
+        "memory_abs": 88735.0,
+        "memory_per": 4.4693,
+        "dtype": "float64"
+    },
+    {
+        "column_name": "geo_lat",
+        "memory_abs": 88735.0,
+        "memory_per": 4.4693,
+        "dtype": "float64"
+    },
+    {
+        "column_name": "geo_lon",
+        "memory_abs": 88735.0,
+        "memory_per": 4.4693,
+        "dtype": "float64"
+    },
+    {
+        "column_name": "building_type",
+        "memory_abs": 88735.0,
+        "memory_per": 4.4693,
+        "dtype": "int64"
+    },
+    {
+        "column_name": "object_type",
+        "memory_abs": 88735.0,
+        "memory_per": 4.4693,
+        "dtype": "int64"
+    },
+    {
+        "column_name": "postal_code",
+        "memory_abs": 88735.0,
+        "memory_per": 4.4693,
+        "dtype": "float64"
+    },
+    {
+        "column_name": "street_id",
+        "memory_abs": 88735.0,
+        "memory_per": 4.4693,
+        "dtype": "float64"
+    },
+    {
+        "column_name": "id_region",
+        "memory_abs": 88735.0,
+        "memory_per": 4.4693,
+        "dtype": "int64"
+    },
+    {
+        "column_name": "house_id",
+        "memory_abs": 88735.0,
+        "memory_per": 4.4693,
+        "dtype": "float64"
+    }
+]
